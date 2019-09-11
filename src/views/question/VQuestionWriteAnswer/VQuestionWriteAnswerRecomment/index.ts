@@ -1,0 +1,3 @@
+import VQuestionWriteAnswerRecomment from './VQuestionWriteAnswerRecomment'
+
+export default VQuestionWriteAnswerRecomment
