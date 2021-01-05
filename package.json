@@ -55,7 +55,7 @@
     "@types/react-transition-group": "^2.0.14",
     "@types/styled-components": "^4.1.4",
     "antd": "^3.11.2",
-    "axios": "~0.18.0",
+    "axios": "~0.21.1",
     "braft-editor": "^2.2.10",
     "classnames": "~2.2.6",
     "date-fns": "~1.30.1",
